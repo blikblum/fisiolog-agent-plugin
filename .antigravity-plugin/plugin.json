@@ -1,0 +1,10 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "ai-plugin-starter",
+  "version": "0.1.0",
+  "description": "A starter plugin with a shared skill and a remote OAuth MCP connection.",
+  "author": {
+    "name": "Luiz Américo"
+  },
+  "license": "MIT"
+}

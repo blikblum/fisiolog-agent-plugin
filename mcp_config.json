@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "main": {
+      "serverUrl": "https://mcp.example.com/mcp"
+    }
+  }
+}

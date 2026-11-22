@@ -1,0 +1,20 @@
+{
+  "name": "ai-plugin-starter",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "mcp:generate": "node scripts/generate-mcp.mjs",
+    "mcp:check": "node scripts/generate-mcp.mjs --check",
+    "oauth:check": "node scripts/check-oauth.mjs",
+    "validate": "node scripts/validate.mjs",
+    "test": "node --test --test-isolation=none"
+  },
+  "devDependencies": {
+    "ajv": "8.20.0",
+    "yaml": "2.9.1"
+  }
+}

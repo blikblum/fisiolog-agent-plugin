@@ -1,0 +1,19 @@
+{
+  "name": "ai-plugin-starter-marketplace",
+  "owner": {
+    "name": "Luiz Américo"
+  },
+  "description": "Install the starter plugin from this repository.",
+  "plugins": [
+    {
+      "name": "ai-plugin-starter",
+      "description": "A starter plugin with a shared skill and a remote OAuth MCP connection.",
+      "source": "./",
+      "category": "Productivity",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      }
+    }
+  ]
+}
