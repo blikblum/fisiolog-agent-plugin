@@ -1,9 +1,9 @@
 {
-  "name": "ai-plugin-starter",
+  "name": "fisiolog-agent",
   "version": "0.1.0",
-  "description": "A starter plugin with a shared skill and a remote OAuth MCP connection.",
+  "description": "Acesse dados administrativos do FisioLog",
   "author": {
-    "name": "Luiz Américo"
+    "name": "ConnectMed"
   },
   "license": "MIT"
 }

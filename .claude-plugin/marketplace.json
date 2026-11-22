@@ -1,13 +1,13 @@
 {
-  "name": "ai-plugin-starter-marketplace",
+  "name": "fisiolog-agent-marketplace",
   "owner": {
-    "name": "Luiz Américo"
+    "name": "ConnectMed"
   },
-  "description": "Install the starter plugin from this repository.",
+  "description": "Install the FisioLog plugin from this repository.",
   "plugins": [
     {
-      "name": "ai-plugin-starter",
-      "description": "A starter plugin with a shared skill and a remote OAuth MCP connection.",
+      "name": "fisiolog-agent",
+      "description": "Acesse dados administrativos do FisioLog",
       "source": "./",
       "category": "Productivity",
       "policy": {

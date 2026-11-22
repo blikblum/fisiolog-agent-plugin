@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "main": {
-      "serverUrl": "https://mcp.example.com/mcp"
+      "serverUrl": "https://fisiolog-mcp-855158414410.southamerica-east1.run.app/mcp"
     }
   }
 }

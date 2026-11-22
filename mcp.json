@@ -3,7 +3,7 @@
   "mcpServers": {
     "main": {
       "type": "streamable-http",
-      "url": "https://mcp.example.com/mcp"
+      "url": "https://fisiolog-mcp-855158414410.southamerica-east1.run.app/mcp"
     }
   }
 }
